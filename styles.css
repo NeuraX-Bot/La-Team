@@ -41,8 +41,16 @@ nav ul li a:hover {
     background-color: #111;
 }
 
-main {
-    padding: 20px;
+.container {
+    padding: 2em;
+}
+
+.section {
+    background-color: white;
+    margin-bottom: 1em;
+    padding: 1em;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 footer {
