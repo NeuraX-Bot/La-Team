@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Politique de Confidentialité</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        p {
+            margin-bottom: 10px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Politique de Confidentialité</h1>
+        <p><strong>Dernière mise à jour :</strong> [Date]</p>
+
+        <p>Nous prenons votre vie privée au sérieux. Cette politique de confidentialité décrit comment [Nom de l'Application] ("nous", "notre" ou "nos") collecte, utilise, et protège les informations personnelles que vous nous fournissez en utilisant notre application web. En utilisant [Nom de l'Application], vous acceptez les pratiques décrites dans cette politique.</p>
+
+        <h2>1. Collecte d'Informations</h2>
+        <p>Nous collectons les types d'informations suivants :</p>
+
+        <h3>1.1 Informations Personnelles</h3>
+        <p>Lorsque vous vous inscrivez ou utilisez notre application, nous pouvons collecter des informations telles que votre nom, adresse e-mail, numéro de téléphone, et toute autre information que vous choisissez de fournir.</p>
+
+        <h3>1.2 Informations de Navigation</h3>
+        <p>Nous collectons des informations sur la manière dont vous utilisez l'application, y compris votre adresse IP, le type de navigateur, les pages visitées, la durée de votre visite, et d'autres statistiques d'utilisation.</p>
+
+        <h3>1.3 Cookies et Technologies Similaires</h3>
+        <p>Nous utilisons des cookies et d'autres technologies de suivi pour améliorer votre expérience sur notre site et analyser l'utilisation de notre application. Vous pouvez choisir de désactiver les cookies via les paramètres de votre navigateur, bien que cela puisse affecter la fonctionnalité de l'application.</p>
+
+        <h2>2. Utilisation des Informations</h2>
+        <p>Nous utilisons les informations collectées pour :</p>
+        <ul>
+            <li>Fournir et améliorer les services de notre application.</li>
+            <li>Personnaliser votre expérience utilisateur.</li>
+            <li>Communiquer avec vous, y compris pour des mises à jour, des notifications, et des messages marketing, sous réserve de votre consentement.</li>
+            <
