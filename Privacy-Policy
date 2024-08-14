@@ -4,29 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Politique de Confidentialité</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 20px;
-            background-color: #f4f4f4;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        p {
-            margin-bottom: 10px;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            background: #fff;
-            padding: 20px;
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-    </style>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
@@ -53,4 +31,43 @@
             <li>Fournir et améliorer les services de notre application.</li>
             <li>Personnaliser votre expérience utilisateur.</li>
             <li>Communiquer avec vous, y compris pour des mises à jour, des notifications, et des messages marketing, sous réserve de votre consentement.</li>
-            <
+            <li>Analyser les tendances et améliorer la fonctionnalité de l'application.</li>
+            <li>Assurer la sécurité et la protection contre les fraudes.</li>
+        </ul>
+
+        <h2>3. Partage des Informations</h2>
+        <p>Nous ne partageons pas vos informations personnelles avec des tiers, sauf dans les cas suivants :</p>
+        <ul>
+            <li>Avec votre consentement explicite.</li>
+            <li>Avec des prestataires de services tiers qui travaillent en notre nom pour fournir et améliorer nos services.</li>
+            <li>Lorsque la loi l'exige ou pour répondre à des procédures judiciaires.</li>
+            <li>Pour protéger nos droits, notre propriété, ou la sécurité de notre entreprise, de nos utilisateurs ou du public.</li>
+        </ul>
+
+        <h2>4. Sécurité des Données</h2>
+        <p>Nous mettons en œuvre des mesures de sécurité appropriées pour protéger vos informations contre l'accès non autorisé, la divulgation, la modification ou la destruction. Cependant, aucune méthode de transmission sur Internet ou de stockage électronique n'est totalement sécurisée, et nous ne pouvons pas garantir une sécurité absolue.</p>
+
+        <h2>5. Vos Droits</h2>
+        <p>Vous avez le droit de :</p>
+        <ul>
+            <li>Accéder à vos informations personnelles et en demander une copie.</li>
+            <li>Rectifier toute information personnelle inexacte ou incomplète.</li>
+            <li>Demander la suppression de vos informations personnelles, sous réserve des obligations légales.</li>
+            <li>Vous opposer au traitement de vos données pour des motifs légitimes.</li>
+        </ul>
+        <p>Pour exercer ces droits, veuillez nous contacter à [adresse e-mail de contact].</p>
+
+        <h2>6. Modifications de la Politique de Confidentialité</h2>
+        <p>Nous pouvons mettre à jour cette politique de confidentialité de temps en temps. Toute modification sera publiée sur cette page avec une date de mise à jour. Nous vous encourageons à consulter régulièrement cette politique pour rester informé(e) des changements.</p>
+
+        <h2>7. Contact</h2>
+        <p>Si vous avez des questions ou des préoccupations concernant cette politique de confidentialité, veuillez nous contacter à :</p>
+        <p>[Nom de l'Application]<br>
+        [Adresse physique]<br>
+        [Adresse e-mail de contact]<br>
+        [Numéro de téléphone]</p>
+
+        <p>En utilisant notre application, vous reconnaissez avoir lu et compris cette politique de confidentialité.</p>
+    </div>
+</body>
+</html>
